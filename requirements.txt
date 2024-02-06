@@ -1,0 +1,6 @@
+python-dotenv
+openai
+tenacity
+azure-search-documents
+azure-core
+azure-identity
